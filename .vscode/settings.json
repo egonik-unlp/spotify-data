@@ -1,0 +1,14 @@
+{
+	"sqltools.connections": [
+		{
+			"previewLimit": 50,
+			"server": "localhost",
+			"port": 5455,
+			"driver": "PostgreSQL",
+			"name": "spotify",
+			"database": "postgres",
+			"username": "postgres",
+			"password": "example"
+		}
+	]
+}
